@@ -2,10 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 N:Bartoli;Derek;;;
 FN:Derek Bartoli
-EMAIL;type=INTERNET;type=HOME;type=pref:derek@bartoli.me
-TEL;type=CELL;type=VOICE;type=pref:+1 407-744-5181
-TEL;type=HOME;type=VOICE;type=pref:+1 407-569-8409
-URL;type=pref:https://derek.bartoli.me
+EMAIL;type=INTERNET;type=WORK;PREF=1:derek@bartoli.me
+EMAIL;type=INTERNET;type=HOME;derekbartoli81@gmail.com
+TEL;type=CELL;type=VOICE;PREF=1:+1 407-744-5181
+TEL;type=HOME;type=VOICE;+1 407-569-8409
+URL;PREF=1:https://derek.bartoli.me
 BDAY:1981-04-23
 X-SOCIALPROFILE;type=WhatsApp:https://wa.me/14077445181
 X-SOCIALPROFILE;type=GitHub:https://github.com/macide213
